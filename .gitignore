@@ -1,0 +1,6 @@
+# do not upload the files
+GOLDEN_DIQ_key_updated_BRAND_MODEL_ls.csv
+GOLDEN_DIQ_updated_BRAND_ls.csv
+GOLDEN_mapbase_july_FULL.csv
+google_adk_for_kg/
+.env
